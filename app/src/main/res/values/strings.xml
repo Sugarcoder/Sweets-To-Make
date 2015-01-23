@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sweets To Make</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="buttonAddItem">Add sweet</string>
+    <string name="EnterNewItem">Enter a new sweet</string>
+
+</resources>
