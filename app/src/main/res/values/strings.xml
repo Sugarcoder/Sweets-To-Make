@@ -2,9 +2,10 @@
 <resources>
 
     <string name="app_name">Sweets To Make</string>
-
     <string name="action_settings">Settings</string>
     <string name="buttonAddItem">Add sweet</string>
     <string name="EnterNewItem">Enter a new sweet</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
